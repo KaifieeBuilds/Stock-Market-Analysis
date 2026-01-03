@@ -28,7 +28,7 @@ and correlation between different stocks using data analytics techniques.
 - Correlation analysis
 
 ## Files in This Repository
-- `stock_market.ipynb` – Complete analysis notebook
+- `Stock_market.ipynb` – Complete analysis notebook
 
 ## Conclusion
 This project demonstrates practical data analytics skills in financial market analysis
